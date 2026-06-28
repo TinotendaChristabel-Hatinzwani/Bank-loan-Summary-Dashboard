@@ -1,4 +1,4 @@
-<img width="1432" height="806" alt="Loan Summary" src="https://github.com/user-attachments/assets/0f999a21-41bf-4d9b-b023-3cfa27dfd8ae" />Project Overview
+Project Overview
 This project presents an interactive Power BI dashboard designed to analyze bank loan applications and lending performance. The dashboard provides insights into loan volumes, funding, repayments, borrower characteristics, and loan trends to support data-driven decision-making within a financial institution.
 
 Business Objective
@@ -17,9 +17,9 @@ The dashboard includes interactive visuals to analyze:
 * Lending and repayment performance
 
  Dashboard Preview
-<img width="1441" height="799" alt="Loan Dashboard " src="https://github.com/user-attachments/assets/a74565bd-49b9-4b28-a05c-5dbbed1986af" />
-<img width="1432" height="806" alt="Loan Summary" src="https://github.com/user-attachments/assets/550360be-2652-40ce-99ca-7ce1f8783c92" />
-<img width="1427" height="808" alt="Loan Business Recommendations " src="https://github.com/user-attachments/assets/8effa282-a3d5-4a3b-9b0d-724d95e5d718" />
+<img width="1441" height="799" alt="Loan Dashboard " src="https://github.com/user-attachments/assets/5c1a8ac7-3b5b-4854-a566-caf3130ca0dd" />
+<img width="1427" height="803" alt="Loan Executive Summary" src="https://github.com/user-attachments/assets/3193af8b-df65-49a5-9f16-f95b83416cbd" />
+<img width="1429" height="804" alt="Loan Business Recommendations " src="https://github.com/user-attachments/assets/76213ba2-1a6f-49e2-8333-dece9bd603fe" />
 
 🔍 Key Insights
 * More than 38,000 loan applications were analyzed.
