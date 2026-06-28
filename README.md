@@ -17,7 +17,7 @@ The dashboard includes interactive visuals to analyze:
 * Lending and repayment performance
 
  Dashboard Preview
-<img width="1441" height="799" alt="Loan Dashboard " src="https://github.com/user-attachments/assets/5c1a8ac7-3b5b-4854-a566-caf3130ca0dd" />
+<img width="1434" height="808" alt="Loan Dashboard " src="https://github.com/user-attachments/assets/49353f2c-b2e0-41d0-9013-e56fd01e525c" />
 <img width="1427" height="803" alt="Loan Executive Summary" src="https://github.com/user-attachments/assets/3193af8b-df65-49a5-9f16-f95b83416cbd" />
 <img width="1428" height="804" alt="Loan Recommendations " src="https://github.com/user-attachments/assets/efd18180-d938-4e53-abe6-1f3bc7e4022f" />
 
