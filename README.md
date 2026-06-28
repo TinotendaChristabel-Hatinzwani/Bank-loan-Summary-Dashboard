@@ -1,7 +1,9 @@
 Project Overview
+
 This project presents an interactive Power BI dashboard designed to analyze bank loan applications and lending performance. The dashboard provides insights into loan volumes, funding, repayments, borrower characteristics, and loan trends to support data-driven decision-making within a financial institution.
 
 Business Objective
+
 The objective of this dashboard is to help stakeholders monitor key lending metrics, identify borrowing trends, evaluate portfolio performance, and support strategic decisions related to loan approvals and risk management.
 
 📈 Key Performance Indicators (KPIs),Total Loan Applications, Total Funded Amount,Total Amount Received,Average Interest Rate,Average Debt-to-Income (DTI) Ratio
